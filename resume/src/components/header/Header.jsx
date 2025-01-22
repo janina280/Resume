@@ -23,7 +23,7 @@ const Header = () => {
                   <FaEnvelope size={13} />
                 </span>
                 <p className="info-item-text">
-                  Email:<span className="text">coceijanina@yahoo.com</span>
+                  Email:<span className="text"> coceijanina@yahoo.com</span>
                 </p>
               </li>
               <li className="grid items-start info-item">
@@ -39,7 +39,7 @@ const Header = () => {
                   <FaLocationDot size={14} />
                 </span>
                 <p className="info-item-text">
-                  Address:<span className="text">Dolj, Romania</span>
+                  Address:<span className="text"> Dolj, Romania</span>
                 </p>
               </li>
             </ul>
