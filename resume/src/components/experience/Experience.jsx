@@ -15,11 +15,11 @@ const Experience = () => {
     <div className="experience-sc resume-block">
       <div className="container">
         <div className="experience-content dotted-border-left">
-          <Title titleText={"Proffesional Experience"} />
+          <Title titleText={"Professional Experience"} />
           <div className="experience-list grid">
-            {DATA.professionalExperiences.map((item) => {
-              <ExperienceItem key={item.id} item={item} />;
-            })}
+            {DATA.professionalExperiences.map((item) => (
+              <ExperienceItem key={item.id} item={item} />
+            ))}
           </div>
         </div>
       </div>
