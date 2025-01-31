@@ -7,7 +7,7 @@ const Education = () => {
     <div className="education-sc resume-block">
       <div className="container">
         <div className="education-content dotted-border-left">
-          <Title titleText={"Education"} />
+          <Title titleText={"Education&Training"} />
           <div className="education-list grid">
             {DATA.educationalExperiences?.map((item) => (
               <EducationItem key={item.id} item={item} />
