@@ -11,10 +11,10 @@ const Header = () => {
             <div className="flex items-end header-intro-wrapper">
               <img src={AvatarSVG} alt="avatar" className="avatar" />
               <h1 className="headre-name text-white">
-                Janina Cocei, <br /> Web Developer
+                Janina Cocei, <br /> Junior Software Developer
               </h1>
             </div>
-            <p className="header-text text text-white"> As a programmer</p>
+            <p className="header-text text text-white"> Hardworking with an energetic and caring nature. Extremely intelligent and quick learner, excellent memory and focus on results. Able to utilize strong relationship-building, problem-solving and organizational skills to plan effective activities. Energetic self-starter and team builder. Navigates stress situations and achieves goals a time.</p>
           </div>
           <div className="header-contact">
             <ul className="contact-info-list grid text-white">

@@ -27,7 +27,7 @@ const DATA = {
     {
       id: "prof_exp_1",
       startDate: "Jun 2024",
-      endDate: "",
+      endDate: "Ian 2025",
       position: "Junior Web Developer",
       diamondColors: ["Purple", "Yellow", "Blue"],
       company: {
@@ -36,7 +36,7 @@ const DATA = {
         info: "Custom website and software development in Craiova, Dolj",
       },
       description:
-        "Created a template using Laravel and Blade. Utilized PHPUnit for unit testing to ensure the integrity of core functionalities. Later, I migrated the front end to React. I integrated Tailwind CSS to create a responsive user interface and used Git for version control, following a feature branch workflow.",
+        "Created a template using Laravel and Blade. Utilized PHPUnit for unit testing to ensure the integrity of core functionalities. I integrated Tailwind CSS to create a responsive user interface and used Git for version control, following a feature branch workflow.",
     },
   ],
   educationalExperiences: [
@@ -90,7 +90,6 @@ const DATA = {
       icon: DiamondLgPink,
       course: "Java",
       institution: "Remote Learning Nagarro",
-      degree: "",
       startDate: "Nov 2023",
       endDate: "Mar 2024",
     },
@@ -104,23 +103,23 @@ const DATA = {
       endDate: "May 2023",
     },
     {
-      id: "edu_7",
-      icon: DiamondLgBlue,
-      course: "Embedded Systems",
-      institution: "Continental Sibiu",
-      degree: "Diploma",
-      startDate: "Mar 2023",
-      endDate: "May 2023",
+      id: "edu_8",
+      icon: DiamondLgOrange,
+      course: "Computers Science",
+      institution: "The Faculty of Automation, Computers and Electronics",
+      degree: "Bachelor’s Degree",
+      startDate: "Oct 2021",
+      endDate: "May 2025",
     },
     {
-      id: "edu_6",
-      icon: DiamondLgBlue,
-      course: "Information Technology Software",
+      id: "edu_9",
+      icon: DiamondLgGreen,
+      course: "Matematics and computer science,",
       institution:
-        "Belarusian State University of Informatics and Radioelectronics",
-      degree: "Bachelor Degree",
-      startDate: "2011",
-      endDate: "2015 ",
+        "Nicolae Titulescu (High School)",
+      degree: "Baccalaureate Diploma",
+      startDate: "Sep 2017",
+      endDate: "Iun 2021 ",
     },
   ],
   skills: [
