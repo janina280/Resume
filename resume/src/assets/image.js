@@ -16,18 +16,32 @@ import Dribble from "./images/dribble.svg";
 import Linkedin from "./images/linkedin.svg";
 import Email from "./images/email.svg";
 import Figma from "./images/figma.svg";
-import CompanyLogo1 from "./images/company_logo1.svg";
+import CompanyLogo1 from "./images/logo-company.svg";
 import CompanyLogo2 from "./images/company_logo2.svg";
 import CompanyLogo3 from "./images/company_logo3.svg";
 import CompanyLogo4 from "./images/company_logo4.svg";
 import SkillCss from "./images/skill_css.png";
 import SkillFigma from "./images/skill_figma.png";
 import SkillHtml5 from "./images/skill_html5.png";
+import SkillPostgreSQL from "./images/skill_postgreSQL.png";
+import SkillSelenium from "./images/skill_selenium.png";
+import SkillBlazor from "./images/skill_blazor.png";
+import SkillPHPUnit from "./images/skill_php_unit.png";
 import SkillPhotoshop from "./images/skill_photoshop.png";
 import SkillSketch from "./images/skill_sketch.png";
 import SkillTrello from "./images/skill_trello.png";
 import SkillWireframe from "./images/skill_wireframe.png";
+import SkillMicrosoftSQL from "./images/skill_msqls.png";
+import SkillAsp from "./images/skill_asp.png";
+import SkillTailwind from "./images/skill_tailwind.png";
 import SkillXd from "./images/skill_xd.png";
+import SkillBootstrap from "./images/skill_bootstrap.png";
+import SkillLaravel from "./images/skill_laravel.png";
+import SkillJava from "./images/skill_java.png";
+import SkillCSharp from "./images/skill_csharp.png";
+import SkillJavaSpringBoot from "./images/skill_java_spring.png";
+import SkillReact from "./images/skill_react.png";
+import SkillEntity from "./images/skill_entity.png";
 import Udemy from "./images/udemy.png";
 import Coursera from "./images/coursera.png";
 import Google from "./images/google.png";
@@ -67,6 +81,20 @@ export {
   SkillTrello,
   SkillWireframe,
   SkillXd,
+  SkillJava,
+  SkillBootstrap,
+  SkillJavaSpringBoot,
+  SkillCSharp,
+  SkillReact,
+  SkillMicrosoftSQL,
+  SkillSelenium,
+  SkillPostgreSQL,
+  SkillAsp,
+  SkillLaravel,
+  SkillPHPUnit,
+  SkillTailwind,
+  SkillBlazor,
+  SkillEntity,
   Udemy,
   Coursera,
   Google,
