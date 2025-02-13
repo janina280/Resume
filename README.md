@@ -10,7 +10,7 @@ Resume Builder este o aplicație web construită cu **React**, care permite util
 
 - Listare experiențe educaționale și profesionale
 - Prezentarea abilităților de management și leadership
-- da-mi promptulInterfață responsivă
+- Interfață responsivă
 - Ușor de personalizat prin fișierele de date
 
 ## 🛠️ Tehnologii folosite
