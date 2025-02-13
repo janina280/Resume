@@ -1,7 +1,5 @@
 # Resume Builder
 
-![Resume Builder](https://your-image-url.com)  
-
 ## 📌 Description
 Resume Builder is a web application built with **React**, allowing users to create and customize their resumes interactively. The application uses mock data files to generate resume content.
 
