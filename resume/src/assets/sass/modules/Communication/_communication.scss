@@ -1,12 +1,16 @@
-.hobby-sc {
-    .hobby-title {
+.communication-sc {
+    .communication-title {
       margin-bottom: 6px;
       gap: 10px;
     }
-    .hobby-icon {
-      width: 20px;
-    }
-    .hobby-list {
+    .communication-icon {
+        width: 20px;
+        height: 20px;
+        object-fit: contain;
+        display: block;
+      }
+        
+    .communication-list {
       margin-left: 24px;
       display: grid;
       grid-template-columns: repeat(3, 1fr);
@@ -24,17 +28,17 @@
       }
     }
   
-    .hobby-item {
+    .communication-item {
       padding: 12px 0;
       @media (max-width: 576px) {
         padding: 10px 0;
       }
     }
-    .hobby-course {
+    .communication-course {
       font-weight: 600;
       font-size: 18px;
     }
-    .hobby-info {
+    .communication-info {
       margin-left: 30px;
     }
   }

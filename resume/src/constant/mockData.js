@@ -250,23 +250,52 @@ const DATA = {
   hobbiesAndInterests: [
     {
       id: "hob_1",
-      icon: Gaming,
-      name: "Gaming",
-    },
-    {
-      id: "hob_2",
       icon: Reading,
       name: "Reading",
     },
     {
-      id: "hob_3",
+      id: "hob_2",
       icon: Travelling,
       name: "Travelling",
     },
     {
-      id: "hob_4",
+      id: "hob_3",
       icon: Blogging,
       name: "Blogging",
+    },
+  ],
+  managementAndLidershipSkills: [
+    {
+      id: "skill_manage_1",
+      icon: DiamondLgPink,
+      name: "Communication",
+    },
+    {
+      id: "skill_manage_2",
+      icon: DiamondLgYellow,
+      name: "Planning and organizing",
+    },
+    {
+      id: "skill_manage_3",
+      icon: DiamondLgBlue,
+      name: "Strategic decisions",
+    },
+  ],
+  communicationAndInterpersonalSkills: [
+    {
+      id: "skill_communication_1",
+      icon: DiamondLgPink,
+      name: "Listening",
+    },
+    {
+      id: "skill_communication_2",
+      icon: DiamondLgYellow,
+      name: "Teamwork",
+    },
+    {
+      id: "skill_communication_3",
+      icon: DiamondLgBlue,
+      name: "Public speaking",
     },
   ],
 };
