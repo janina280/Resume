@@ -54,6 +54,14 @@ Resume/
 │── package.json          # Configurație proiect
 │── README.md             # Documentația proiectului
 ```
+![image](https://github.com/user-attachments/assets/e1c2cfc4-608b-44ef-9868-be2452625948)
+
+![image](https://github.com/user-attachments/assets/98501868-843b-4851-ba24-1263b546d21e)
+
+![image](https://github.com/user-attachments/assets/a5737aec-1582-4fb7-ba5b-069832d393d6)
+
+![image](https://github.com/user-attachments/assets/6cabd8c1-2946-486e-9e90-dcc3d9f36cc5)
+
 
 ## 🔮 Îmbunătățiri viitoare
 
