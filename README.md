@@ -1,5 +1,6 @@
 # Resume Builder
 
+
 ## 📌 Description
 Resume Builder is a web application built with **React**, allowing users to create and customize their resumes interactively. The application uses mock data files to generate resume content.
 
@@ -31,7 +32,7 @@ Resume Builder is a web application built with **React**, allowing users to crea
    ```bash
    npm start
    ```
-5. The application will be available at `http://localhost:3000`
+5. The application will be available at `http://localhost:5173`
 
 ## 📁 Project Structure
 ```
