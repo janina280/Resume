@@ -1,59 +1,55 @@
 # Resume Builder
 
+![Resume Builder](https://your-image-url.com)  
 
+## 📌 Description
+Resume Builder is a web application built with **React**, allowing users to create and customize their resumes interactively. The application uses mock data files to generate resume content.
 
-## 📌 Descriere
+## 🚀 Features
+- Listing of educational and professional experiences
+- Display of management and leadership skills
+- Responsive interface
+- Easy customization via data files
 
-Resume Builder este o aplicație web construită cu **React**, care permite utilizatorilor să își creeze și să își personalizeze un CV într-un mod interactiv. Aplicația utilizează date dintr-un fișier mock pentru a genera conținutul paginii de CV.
+## 🛠️ Technologies Used
+- **React.js** - Main framework for the user interface
+- **SCSS** - Modular styling
+- **PropTypes** - Data type validation
 
-## 🚀 Caracteristici
-
-- Listare experiențe educaționale și profesionale
-- Prezentarea abilităților de management și leadership
-- Interfață responsivă
-- Ușor de personalizat prin fișierele de date
-
-## 🛠️ Tehnologii folosite
-
-- **React.js** - Framework principal pentru interfața utilizator
-- **SCSS** - Stilizare modulară
-- **PropTypes** - Validare a tipurilor de date
-
-## 🔧 Instalare și rulare
-
-1. Clonează acest repository:
+## 🔧 Installation and Running
+1. Clone this repository:
    ```bash
    git clone https://github.com/janina280/Resume.git
    ```
-2. Navighează în folderul proiectului:
+2. Navigate to the project folder:
    ```bash
    cd Resume
    ```
-3. Instalează dependențele:
+3. Install dependencies:
    ```bash
    npm install
    ```
-4. Rulează aplicația:
+4. Run the application:
    ```bash
    npm start
    ```
-5. Aplicația va fi disponibilă la `http://localhost:5173`
+5. The application will be available at `http://localhost:3000`
 
-## 📁 Structura proiectului
-
+## 📁 Project Structure
 ```
 Resume/
 │── src/
-│   ├── components/       # Componentele UI
-│   ├── pages/            # Pagini principale
-│   ├── styles/           # Fișiere SCSS
-│   ├── constant/         # Fișierul mockData.js
-│   ├── App.js            # Componenta principală
-│   ├── index.js          # Punctul de intrare în aplicație
+│   ├── components/       # UI components
+│   ├── pages/            # Main pages
+│   ├── styles/           # SCSS files
+│   ├── constant/         # mockData.js file
+│   ├── App.js            # Main component
+│   ├── index.js          # Application entry point
 │── public/
-│── package.json          # Configurație proiect
-│── README.md             # Documentația proiectului
+│── package.json          # Project configuration
+│── README.md             # Project documentation
 ```
+
 ![image](https://github.com/user-attachments/assets/e1c2cfc4-608b-44ef-9868-be2452625948)
 
 ![image](https://github.com/user-attachments/assets/98501868-843b-4851-ba24-1263b546d21e)
@@ -62,10 +58,7 @@ Resume/
 
 ![image](https://github.com/user-attachments/assets/6cabd8c1-2946-486e-9e90-dcc3d9f36cc5)
 
-
-## 🔮 Îmbunătățiri viitoare
-
-- Integrare cu API-uri pentru import automat de experiență profesională
-- Funcționalitate de export CV în format PDF
-- Opțiuni avansate de personalizare a designului
-
+## 🔮 Future Improvements
+- API integration for automatic import of professional experience
+- Functionality to export resumes as PDF
+- Advanced design customization options
